@@ -67,8 +67,6 @@ function buildCharts(sample) {
           orientation: "h"
         };
 
-        
-
         const layoutBar = {
           title: "Top 10 Bacteria Cultures Found",
           xaxis: {title: "Number of Bacteria"},
